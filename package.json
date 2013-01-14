@@ -1,0 +1,15 @@
+{
+  "name": "Application-Framework",
+  "description": "Business Application Framework to act as standard implementation for internal apps going foward.",
+  "version": "0.0.1",
+  "author": "Sean Lecky",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.6",
+    "jade": "*",
+    "url-express-crud": "*"
+  }
+}
